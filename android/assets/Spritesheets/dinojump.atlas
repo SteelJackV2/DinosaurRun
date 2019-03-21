@@ -1,0 +1,172 @@
+dinojump-0.png
+size: 1820, 1914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jump1
+  rotate: false
+  xy: 0, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump2
+  rotate: false
+  xy: 260, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump3
+  rotate: false
+  xy: 520, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump4
+  rotate: false
+  xy: 780, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump5
+  rotate: false
+  xy: 1040, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump6
+  rotate: false
+  xy: 1300, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump7
+  rotate: false
+  xy: 1560, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump8
+  rotate: false
+  xy: 0, 957
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump9
+  rotate: false
+  xy: 260, 957
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump10
+  rotate: false
+  xy: 520, 957
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump11
+  rotate: false
+  xy: 780, 957
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump12
+  rotate: false
+  xy: 1040, 957
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump17
+  rotate: false
+  xy: 1300, 957
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump18
+  rotate: false
+  xy: 1560, 957
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+
+dinojump-1.png
+size: 1300, 1914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jump19
+  rotate: false
+  xy: 0, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump20
+  rotate: false
+  xy: 260, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump21
+  rotate: false
+  xy: 520, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump22
+  rotate: false
+  xy: 780, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump23
+  rotate: false
+  xy: 1040, 0
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump24
+  rotate: false
+  xy: 0, 957
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump25
+  rotate: false
+  xy: 260, 957
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump26
+  rotate: false
+  xy: 520, 957
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1
+jump27
+  rotate: false
+  xy: 780, 957
+  size: 260, 957
+  orig: 260, 957
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+dinorun.png
+size: 520, 278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DinorunOne
+  rotate: false
+  xy: 0, 0
+  size: 260, 278
+  orig: 260, 278
+  offset: 0, 0
+  index: -1
+DinorunTwo
+  rotate: false
+  xy: 260, 0
+  size: 260, 278
+  orig: 260, 278
+  offset: 0, 0
+  index: -1
